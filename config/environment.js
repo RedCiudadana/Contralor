@@ -67,7 +67,7 @@ module.exports = function(environment) {
       webPropertyId: 'UA-113727052-1'
     };
 
-    ENV.APP.staticFilesUrl = 'http://eleccionmp.org/static-files/';
+    ENV.APP.staticFilesUrl = 'http://contralor.redciudadana.org/static-files/';
   }
 
   return ENV;
