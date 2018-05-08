@@ -7,7 +7,7 @@
   },
   {
     "key": "logoTitle",
-    "value": "Elección MP",
+    "value": "Elección Contralor",
     "tags": "",
     "observaciones": ""
   },
@@ -25,7 +25,7 @@
   },
   {
     "key": "siteMainTitle",
-    "value": "<div class=\"row text-center\" style=\"padding: 30px 5px;\">\n  <h1 style=\"font-weight: 600; font-size: 38px;\">Conoce todo sobre el proceso de elección del Fiscal General del Ministerio Público de Guatemala</h1>\n</div>",
+    "value": "<div class=\"row text-center\" style=\"padding: 30px 5px;\">\n  <h1 style=\"font-weight: 600; font-size: 38px;\">Conoce todo sobre el proceso de elección del Contralor General de Cuentas de la Nación</h1>\n</div>",
     "tags": "",
     "observaciones": "Permite HTML"
   },
