@@ -22,7 +22,7 @@ module.exports = function(deployTarget) {
 
     // configure other plugins for production deploy target here
     ENV.git = {
-      repo: 'https://github.com/RedCiudadana/EleccionMP.git',
+      repo: 'https://github.com/RedCiudadana/Contralor.git',
       branch: 'gh-pages',
       worktreePath: '/tmp/deploy'
     };
